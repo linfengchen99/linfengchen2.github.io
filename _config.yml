@@ -1,7 +1,7 @@
 # Site settings
 title: fff Blog
 SEOTitle: 峯的博客 | LF Blog
-header-img: IMG_7683.jpg
+header-img: img/IMG_7683.jpg
 email: 951012166@qq.com
 description: "Welcome to my world."
 keyword: "F, FF Blog,峯的博客,F, F, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Be yourself."
-sidebar-avatar: /img_5444.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/img_5444.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
