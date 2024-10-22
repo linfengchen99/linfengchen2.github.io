@@ -1,18 +1,9 @@
-├── _config.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.textile
-|   └── on-simplicity-in-technology.markdown
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   └── 2009-04-26-barcamp-boston-4-roundup.textile
-├── _data
-|   └── members.yml
-├── _site
-├── img
-└── index.html
+# Site settings
+title: LF Blog    				 
+SEOTitle: 林峯的博客 | LF Blog    	 
+header-img: img/post-bg-rwd.jpg  
+email: linfengchenlinfengchen929@gmail.com	
+description: "LF Blog"  			 
+keyword: "LF, LF Blog, 林峯的博客, chenlinfeng, 陈林峯, iOS, Apple, iPhone" 
+url: "https://linfengchen.github.io"          
+baseurl: ""     
